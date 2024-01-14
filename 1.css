@@ -1,0 +1,122 @@
+body {
+    background-image: url('./image/BACK\ GROUND\ IMAGE.jpg');
+    background-repeat: no-repeat;
+
+    background-size: 100% 20%;
+    position: sticky;
+  }
+.logo{
+    justify-content: space-between;
+    display: flex;
+
+}
+.title{
+    justify-content: center;
+    display: flex;
+    font-size: 90px;
+  }
+
+  .title1{
+    justify-content: center;
+    display: flex;
+    font-size: 30px;
+  }
+
+  .btn{
+    
+    border-radius: 15px;
+    background-color: green;
+    text-decoration: none;
+    padding: 15px;
+    border: none;
+    justify-content: center;
+    margin-left: 45%;
+  }
+  .btn2
+  {
+    border-radius: 15px;
+    background-color: green;
+    text-decoration: none;
+    padding: 10px;
+    border: none;
+    justify-content: center;
+    margin-left: 10%;
+  }
+  .middle{
+    display: flex;
+    justify-content: center;
+    margin-top: 25%;
+    margin-left: 8%;
+  }
+  .middlehead{
+    margin-left: -2%;
+    margin-top: 5%;
+    size: 70%;
+   }
+  .size1{
+    font-size: 80%;
+  }
+  .middle1{
+    display: flex;
+    justify-content: center;
+    margin-left: 8%;
+   }
+.image2{
+  margin-left: 35%;
+}
+.btn4
+  {
+    border-radius: 15px;
+    background-color: green;
+    text-decoration: none;
+    padding: 10px;
+    border: none;
+    justify-content: center;
+    margin-left: 1%;
+  }
+  .vpn
+  {
+   display: flex;
+   justify-content: center;
+   margin-left: 20%;
+  }
+ .btn6{
+  border: none;
+ }
+ .para{
+  text-decoration: underline;
+  color: green;
+ }
+ .vpv3{
+  margin-right: 20%;
+ }
+ .image5{
+  display: flex;
+    justify-content: center;
+    margin-right: 60%;
+
+ } 
+ .xyz{
+  display: flex;
+  justify-content: center;
+  margin-left: 15%;
+ }
+.para1{
+  text-decoration: underline;
+  color: green;
+  text-align: center;
+ }
+ .lstimg{
+  position: relative;
+  width: 1250px;
+  height: 100px;
+ }
+ .lastcontain{
+  position: absolute;
+  width: 1000px;
+  height: 200px;
+ }
+ .loc{
+  text-align:right;
+  margin-top: 100px;
+ }
